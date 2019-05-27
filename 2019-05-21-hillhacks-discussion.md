@@ -111,7 +111,7 @@ Art Campus - hacking space and school in Rakkar. They're open to training people
 It has camp site and rooms being built. They already have some tools. 5 min walk to a place with food, etc. They are committed to staying long-term and continual engagement. 
 There is also a law school - we could engage with them about the technical stuff. There is a waste program in Rakkar that we started and is still going. 
 
-A place in Kasol has also been suggested. Apparently this is the centre of the place to get hash, where hippies hang. But if it's beautiful, let's consider it. 
+A place in Kasol has also been suggested.
 
 Also the option to come back here at Surya - as a fallback, safe option that we know is available. However, if the building is completed with extra rooms then we may not be able to afford to pay for the extra rooms. However, in Art Campus in Rakkar the owners are on site to do some ground work.
 
