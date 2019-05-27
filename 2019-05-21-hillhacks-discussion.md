@@ -54,7 +54,7 @@ How do I earn money as an ethical hacker?
 Is it for or against us as a society? - this is the base question as a free and open society. You will probably be happier with a little less money but that's not supporting something bad.
 
 #### Political Issues
-Adhar, networks, free the internet. It's not about politics - it's about human rights. 
+Aadhar, networks, free the internet. It's not about politics - it's about human rights. 
 
 #### How do we move on?
 How, where, why and when?
@@ -134,7 +134,7 @@ Maybe we should even have an ugly website again to change expectation management
 2 directions - more documentation for newcomers to take forward
 Have a formal association that allows for an 'office' or position of authority that can be filled in by anyone to take care of these things. 
 
-Gunit will have connection with the local police this year. An association that can take responsibility for such things. 
+Guneet will have connection with the local police this year. An association that can take responsibility for such things. 
 
 Usually people go to tech conferences then find out about HH. Today people see it as a formal event where they want to network, bring work, etc. as they have those expectations. 
 
