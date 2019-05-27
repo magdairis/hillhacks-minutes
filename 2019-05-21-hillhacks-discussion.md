@@ -48,7 +48,7 @@ We try to have some meetup spaces in other cities but they didn't work so well e
 Try hosting once a month, plenty of spaces that will host
 
 #### Ethics and Society
-Read up on Hacker Ethics and History on Wikipedia and give a brief intro, this can lead to a discussion on how it fits now and with culture.
+Read up on [Hacker Ethics](https://en.wikipedia.org/wiki/Hacker_ethic#The_hacker_ethics) and [History](https://en.wikipedia.org/wiki/Hacker_culture#History) on Wikipedia and give a brief intro, this can lead to a discussion on how it fits now and with culture.
 How does it fit in with work? Pressure from parents/society.
 How do I earn money as an ethical hacker?
 Is it for or against us as a society? - this is the base question as a free and open society. You will probably be happier with a little less money but that's not supporting something bad.
