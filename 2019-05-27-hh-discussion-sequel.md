@@ -36,6 +36,8 @@ It's my second year, so my experience compared with last year is that last time 
 
 To share, hear new voices. Tech and activism. 
 
+I didn't know what to expect. Possibly I expected more workshop style sessions. Meeting people has been really significant, everyone is from a range of working backgrounds with different styles and values but no one is lacking spirit. Everyone really cares and that's prominent.
+
 To find a hack base. 
 
 Maybe it's worth going back to a more tech based setup. I was expecting more entry-level stuff and a lot of it was more specific. This time there wasn't sessions to choose from. 
