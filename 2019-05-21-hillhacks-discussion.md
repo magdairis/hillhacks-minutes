@@ -107,7 +107,7 @@ Separate mailing list for the organisation of the event. To keep noise separate.
 #### Venue
 We need to be aware that we are a part of the gentrification of these areas. 
 We always need a concrete example for venue. 
-Art Campus - hacking space and school in Rakkar. They're open to training people and the founders are connected to the HH and Java scene so they share the values.
+Alt Campus - hacking space and school in Rakkar. They're open to training people and the founders are connected to the HH and Java scene so they share the values.
 It has camp site and rooms being built. They already have some tools. 5 min walk to a place with food, etc. They are committed to staying long-term and continual engagement. 
 There is also a law school - we could engage with them about the technical stuff. There is a waste program in Rakkar that we started and is still going. 
 
